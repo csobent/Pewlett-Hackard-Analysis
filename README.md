@@ -9,7 +9,9 @@ The data we were required to pull consisted of creating tables and importing CSV
 - Looking at the retiring_titles table, we can see the largest title impacted by employees retiring is the Senior Engineer title followed by Senior Staff with almost the same amount of employees retiring. The smallest title impacted by this factor is Manager.
 ![retiring_titles.png](Images/retiring_titles.png)
 - Expounding on the previous point, approximately 35.7% of Senior Engineers are retiring, followed by 33.5% (Senior Staff), 12.8% (Engineer), 10.5% (Staff), 5% (Technique Leader), and 1.5% (Assistant Engineer). The Manager role percentage is neglible and does not seem to make any real impact.
-- If we look at the mentorship_eligiblity table, there are 1,549 employees qualified for the mentorship program. Below is a sample 
+- If we look at the mentorship_eligiblity table, there are 1,549 employees qualified for the mentorship program. (1550-1 = 1549, since the header is included in the count.)
+
+![mentorship.png](Images/mentorship.png)
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 ##### How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
